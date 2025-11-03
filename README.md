@@ -2,6 +2,9 @@
 
 A dark-themed WordPress theme built for speed. No page builders, no drag and drop, no bloat. Just clean PHP, HTML, CSS, JavaScript, and Bootstrap 5.3.
 
+![Hero Screenshot](https://mbstech.dk/wp-content/themes/mbstech/screenshot.png)
+
+
 ## Why This Theme?
 
 After 25+ years in web development, I got tired of bloated themes with features I'll never use. So I built this - a fast, modern WordPress theme that scores **100/100 on Google PageSpeed**.
