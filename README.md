@@ -21,13 +21,13 @@ No fancy page builders. No drag and drop. Just code that works.
 
 Built around a vibrant green that pops against dark backgrounds:
 
-- **Primary Green**: `#2e981b` (the star of the show)
-- **Dark Background**: `#1a1a1a`
-- **Darker Background**: `#0d0d0d` (for depth)
-- **Light Text**: `#e6e6e6`
-- **Muted Text**: `#a0a0a0`
-- **Card Background**: `#1f1f1f`
-- **Border Color**: `#2a2a2a`
+- **Primary Green**: `#2e981b` ![#2e981b](https://via.placeholder.com/15/2e981b/2e981b.png) (the star of the show)
+- **Dark Background**: `#1a1a1a` ![#1a1a1a](https://via.placeholder.com/15/1a1a1a/1a1a1a.png)
+- **Darker Background**: `#0d0d0d` ![#0d0d0d](https://via.placeholder.com/15/0d0d0d/0d0d0d.png) (for depth)
+- **Light Text**: `#e6e6e6` ![#e6e6e6](https://via.placeholder.com/15/e6e6e6/e6e6e6.png)
+- **Muted Text**: `#a0a0a0` ![#a0a0a0](https://via.placeholder.com/15/a0a0a0/a0a0a0.png)
+- **Card Background**: `#1f1f1f` ![#1f1f1f](https://via.placeholder.com/15/1f1f1f/1f1f1f.png)
+- **Border Color**: `#2a2a2a` ![#2a2a2a](https://via.placeholder.com/15/2a2a2a/2a2a2a.png)
 
 ## Getting Started
 
