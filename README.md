@@ -124,9 +124,13 @@ What makes this theme fast:
 - Minimal dependencies (just Bootstrap via CDN)
 - Clean code structure
 - Optimized asset loading
+- 100/100 on Google PageSpeed
 - No database bloat
 - No page builder overhead
 - Custom scrollbar styling that doesn't slow things down
+
+![PageSpeed Score](https://mbstech.dk/wp-content/uploads/2025/10/pagespeed-1024x927.png)
+
 
 ## Browser Support
 
