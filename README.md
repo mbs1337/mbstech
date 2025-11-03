@@ -21,27 +21,13 @@ No fancy page builders. No drag and drop. Just code that works.
 
 Built around a vibrant green that pops against dark backgrounds:
 
-```diff
-! Primary Green:      #2e981b  (the star of the show)
-```
-```diff
-- Dark Background:    #1a1a1a
-```
-```diff
-- Darker Background:  #0d0d0d  (for depth)
-```
-```diff
-+ Light Text:         #e6e6e6
-```
-```diff
-# Muted Text:         #a0a0a0
-```
-```diff
-- Card Background:    #1f1f1f
-```
-```diff
-- Border Color:       #2a2a2a
-```
+- **Primary Green**: `#2e981b` (the star of the show)
+- **Dark Background**: `#1a1a1a`
+- **Darker Background**: `#0d0d0d` (for depth)
+- **Light Text**: `#e6e6e6`
+- **Muted Text**: `#a0a0a0`
+- **Card Background**: `#1f1f1f`
+- **Border Color**: `#2a2a2a`
 
 ## Getting Started
 
