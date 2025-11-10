@@ -18,7 +18,7 @@ get_header();
                     Sorry, but the page you are looking for does not exist or has been moved.
                 </p>
                 <p class="mb-5">
-                    <a href="<?php echo esc_url(home_url('/')); ?>" class="btn btn-primary btn-lg">Tilbage til forsiden</a>
+                    <a href="<?php echo esc_url(home_url('/')); ?>" class="btn btn-primary btn-lg">Back to the front page</a>
                 </p>
             </div>
         </div>
