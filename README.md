@@ -54,6 +54,7 @@ Built around a vibrant green that pops against dark backgrounds:
 - **[page-skillz.php](page-skillz.php)** - Skills display with icons and ratings
 - **[page-life.php](page-life.php)** - Personal interests and project timeline
 - **[page-no-header-footer.php](page-no-header-footer.php)** - Bare template for demos or embeds with no header and footer
+- **[404.php](404.php)** - Custom 404 error page template
 
 ### Custom Templates
 
