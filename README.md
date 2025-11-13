@@ -1,5 +1,13 @@
 # Google PageSpeed 100/100 WordPress Theme
 
+![Built By](https://img.shields.io/badge/BUILT%20BY-mbsTECH-555555?style=flat-square)
+![Website](https://img.shields.io/badge/mbstech.dk-2e981b?style=flat-square&logo=wordpress&logoColor=white)
+![PageSpeed 100/100](https://img.shields.io/badge/PageSpeed-100%2F100-brightgreen?style=flat-square&logo=google&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-PHP-blue?style=flat-square&logo=wordpress&logoColor=white)
+![Bootstrap 5.3](https://img.shields.io/badge/Bootstrap-5.3-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
+![Built In PHP](https://img.shields.io/badge/BUILT%20IN-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![License](https://img.shields.io/badge/License-GPL%20v2-blue?style=flat-square)
+
 A dark-themed WordPress theme built for speed. No page builders, no drag and drop, no bloat. Just clean PHP, HTML, CSS, JavaScript, and Bootstrap 5.3.
 
 ![Hero Screenshot](https://mbstech.dk/wp-content/themes/mbstech/screenshot.png)
@@ -62,8 +70,20 @@ Want to use a custom template?
 
 1. Create a new page in WordPress
 2. In the page editor, find the "Template" dropdown
-3. Select your template (Work Page, Skills Page, Life Page, etc.)
-4. Add content and publish
+3. Select your template (Work Page, Skills Page, Life Page, etc.) or create new ones
+4. Add content in the files just created, and then publish
+
+### SEO-Friendly Setup
+
+This theme is fully compatible with your favorite SEO plugin (Yoast SEO, Rank Math, SEOPress, etc.). The clean code structure and semantic HTML make it easy to optimize:
+
+1. Install your preferred SEO plugin
+2. Create pages with empty content (if you are using the themes
+ "page" method above)
+3. Use the SEO plugin's meta fields to add your title and description
+4. That's it! The theme's clean structure ensures your SEO settings work perfectly
+
+The theme uses semantic HTML5 elements, proper heading hierarchy, and clean markup that search engines love. Combined with the 100/100 PageSpeed score, your site will rank well and load fast.
 
 ### The Homepage Experience
 
@@ -132,6 +152,8 @@ What makes this theme fast:
 - No database bloat
 - No page builder overhead
 - Custom scrollbar styling that doesn't slow things down
+- **SEO-friendly** - Works seamlessly with all major SEO plugins (Yoast, Rank Math, SEOPress)
+- Semantic HTML5 markup for better search engine understanding
 
 ![PageSpeed Score](https://mbstech.dk/wp-content/uploads/2025/10/pagespeed-1024x927.png)
 
